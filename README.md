@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋😺
+[![linkedin badge](https://img.shields.io/badge/Victor%20Ro-Mah?color=blue&&logo=linkedin)](linkedin.com/in/victor-rodionov/)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vctrro.visitor-badge)
 
 <!--
 **vctrro/vctrro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
