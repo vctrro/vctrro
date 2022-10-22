@@ -1,5 +1,5 @@
 ### Hi there 👋😺
-[![linkedin badge](https://img.shields.io/badge/Victor%20Ro-Mah?color=blue&&logo=linkedin)](linkedin.com/in/victor-rodionov/)
+[![linkedin badge](https://img.shields.io/badge/Victor%20Ro-Mah?color=blue&&logo=linkedin)](https://www.linkedin.com/in/victor-rodionov/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vctrro.visitor-badge)
 
 <!--
